@@ -7,7 +7,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsolePractika1", "Console
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleAppDay2", "ConsoleAppDay2\ConsoleAppDay2.csproj", "{CD6F76CE-3D0D-45BE-989E-89588930A298}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlite1", "sqlite1\sqlite1.csproj", "{307C1819-623F-41DE-BE94-2E9DF41CF209}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "sqlite1", "sqlite1\sqlite1.csproj", "{307C1819-623F-41DE-BE94-2E9DF41CF209}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp1", "WinFormsApp1\WinFormsApp1.csproj", "{A8BA8F22-0BE7-4EC4-8B4B-C088C2F8C428}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -27,6 +29,10 @@ Global
 		{307C1819-623F-41DE-BE94-2E9DF41CF209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{307C1819-623F-41DE-BE94-2E9DF41CF209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{307C1819-623F-41DE-BE94-2E9DF41CF209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8BA8F22-0BE7-4EC4-8B4B-C088C2F8C428}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8BA8F22-0BE7-4EC4-8B4B-C088C2F8C428}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8BA8F22-0BE7-4EC4-8B4B-C088C2F8C428}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8BA8F22-0BE7-4EC4-8B4B-C088C2F8C428}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
